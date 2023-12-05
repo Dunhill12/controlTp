@@ -1,0 +1,5 @@
+.bg-primary {
+  background-color: #007bff; /* or any other primary color */
+  color: #fff; /* or any other light color for text */
+  padding: 5px; /* optional: add padding for better appearance */
+}
